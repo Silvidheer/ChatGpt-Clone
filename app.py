@@ -29,7 +29,7 @@ if summarise_button:
     #summarise_placeholder.write("Nice chatting with you my friend ❤️:\n\n"+st.session_state['conversation'].memory.buffer)
 
 #import os
-#os.environ["OPENAI_API_KEY"] = "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"
+
 
 def getresponse(userInput, api_key):
 
